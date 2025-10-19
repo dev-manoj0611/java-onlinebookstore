@@ -137,7 +137,7 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 
 #### "Suggestions and project improvement ideas are welcomed!"
-#### added a line 19/10/2025!!!
+#### added a line 19/10/2025!
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
